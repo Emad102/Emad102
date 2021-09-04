@@ -45,6 +45,8 @@ http://55.abdakaroukhai.xyz/live/1515000000/index.m3u8
 http://55.abdakaroukhai.xyz/live/791001144/index.m3u8
 #EXTINF:-1,samira
 http://62.210.251.227:8081/yacinetv/SamiraTV/chunks.m3u8
+#EXTINF:-1,zee aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1,2m
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1,algeria 1
