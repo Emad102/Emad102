@@ -37,3 +37,5 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1,chada music
 https://chada.cdn.easybroadcast.fr/abr_live/ChadaTv/playlist.m3u8
+#EXTINF:-1,Al ola 
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
