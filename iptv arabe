@@ -29,34 +29,11 @@ https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
 #EXTINF:-1,rotana Khalijiah
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#EXTINF:-1,bein sport 1 hd
-http://11.amaniyouhra.xyz/live/918454578/index.m3u8 
-#EXTINF:-1,bein sport 2 hd
-http://20.amaniyouhra.xyz/live/69854211/index.m3u8
-#EXTINF:-1,bein sport 3 hd
-http://7.amaniyouhra.xyz/live/645587700/index.m3u8
-#EXTINF:-1,bein sport 4 hd
-http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8
-#EXTINF:-1,bein sport 5 hd
-http://55.abdakaroukhai.xyz/live/610303030/index.m3u8
-#EXTINF:-1,bein sport 6 hd
-http://55.abdakaroukhai.xyz/live/1515000000/index.m3u8
-#EXTINF:-1,bein sport 7 hd
-http://55.abdakaroukhai.xyz/live/791001144/index.m3u8
 #EXTINF:-1,samira
 http://62.210.251.227:8081/yacinetv/SamiraTV/chunks.m3u8
 #EXTINF:-1,zee aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1,2m
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1,algeria 1
-http://56.abdakaroukhai.xyz/live/016/index.m3u8
-#EXTINF:-1,algeria 2
-http://56.abdakaroukhai.xyz/live/010/index.m3u8
-#EXTINF:-1,algeria 3 
-http://56.abdakaroukhai.xyz/live/002/index.m3u8
-#EXTINF:-1,algeria 4
-http://56.abdakaroukhai.xyz/live/003/index.m3u8
-#EXTINF:-1,algeria 5
-http://56.abdakaroukhai.xyz/live/004/index.m3u8
-
+#EXTINF:-1,chada music
+https://chada.cdn.easybroadcast.fr/abr_live/ChadaTv/playlist.m3u8
